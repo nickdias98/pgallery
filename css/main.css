@@ -1,10 +1,10 @@
-* {
+ * {
   box-sizing: border-box;
 }
 body {
   color: #333333;   
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background-color: #c4dce1;                      /*change your Bkg color*/
+  background-color: #6abd45;                      /*change your Bkg color*/
 }
 
 a, a:active, a:visited {
@@ -33,7 +33,7 @@ footer p {
 header {
   background: #C8C1B7;
   border-bottom: 1px solid #999999;
-  background-image: url("../img/gallerybanner.jpg"); /*change your banner image*/
+  background-image: url("../img/banner.jpg"); /*change your banner image*/
   height: 60px;
   position: relative;
   width: 100%;
